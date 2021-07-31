@@ -59,8 +59,7 @@ node server.js
 
 from the app's directory.
 
-A demonstration video of the app's functionality can be found [here](DEMO VIDEO
-LINK HERE).
+A demonstration video of the app's functionality can be found [here](https://www.youtube.com/watch?v=T4vW1H_k3Vo).
 
 ## Tests
 
